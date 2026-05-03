@@ -42,4 +42,4 @@ export default async function handler(req, res) {
       res.status(403).json({ err: "Error has occured while making a post" })
     }
   }
-}
+}
