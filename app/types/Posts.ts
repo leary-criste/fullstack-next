@@ -12,4 +12,4 @@ export type PostsType = {
     name: string
     image: string
   }
-}
+}
